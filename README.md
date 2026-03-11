@@ -13,7 +13,6 @@
 ## À propos de moi
 
 Je suis étudiant en **BUT Informatique** à l’**IUT d’Orsay – Université Paris-Saclay**.  
-Je m’intéresse particulièrement au **développement logiciel**, au **développement web**, aux **bases de données** et à la conception d’applications structurées et utiles.
 
 J’aime construire des projets concrets, comprendre le fonctionnement des systèmes en profondeur et progresser sur de bonnes bases techniques.
 
