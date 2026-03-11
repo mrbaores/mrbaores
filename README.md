@@ -39,11 +39,6 @@ Mise en place d’une API REST connectée à une base de données MySQL pour man
 
 ---
 
-## Objectif
-
-Je développe mes compétences en informatique à travers des projets académiques et personnels, avec l’objectif de devenir un développeur solide, rigoureux et polyvalent.
-
----
 
 ## GitHub Stats
 
