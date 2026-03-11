@@ -26,19 +26,6 @@ J’aime construire des projets concrets, comprendre le fonctionnement des syst�
 
 ---
 
-## Projets mis en avant
-
-### Application de gestion de groupes
-Projet de développement d’une application permettant de constituer et gérer des groupes d’étudiants selon différents critères.
-
-### Site web de visualisation
-Création d’une interface web pour consulter les groupes par semestre et faciliter la visualisation des répartitions.
-
-### API REST et base de données
-Mise en place d’une API REST connectée à une base de données MySQL pour manipuler et exposer les données du projet.
-
----
-
 
 ## GitHub Stats
 
