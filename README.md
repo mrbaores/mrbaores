@@ -1,4 +1,4 @@
-<h1 align="center">Mohamed Adem Bouremani</h1>
+<h1 align="center">Bouremani</h1>
 
 <p align="center">
   Étudiant en informatique à l’IUT d’Orsay – Université Paris-Saclay
